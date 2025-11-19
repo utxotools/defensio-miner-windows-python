@@ -1,6 +1,6 @@
 # Welcome to DefensioMiner! 🚀
 
-Thank you for trying out **DefensioMiner**, a high-performance, multi-process miner for the Defensio network.
+Thank you for trying out **DefensioMiner**, a high-performance, multi-process miner for the Defensio Token.
 
 ## Getting Started
 
